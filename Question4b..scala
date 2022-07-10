@@ -1,4 +1,4 @@
-import scala.io.StdIn.readInt;
+import scala.io.StdIn.readInt;   //just incase
 object ScalaTestExample4b{
 
     def attendees(price:Int):Int=120+(15-price)/5*20
