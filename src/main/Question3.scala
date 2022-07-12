@@ -16,7 +16,7 @@ object ScalaTestExample3 {
     a+=1;
     println(a);
 
-    //println(-2*(g-k)+c);
+   
 
     e=c+1;
     println(e);
